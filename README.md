@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **on any Type of Cyber Opration Like Forensic and VAPT testing.**
 
-- 💬 Ask me about **C++, Cyber Security, Web Application Testing**
+- 💬 Ask me about **C, C++, HTML, CSS, Cyber Security, Web Application Testing**
 
 - 📫 How to reach me **gargnikesh8362@gmail.com**
 
