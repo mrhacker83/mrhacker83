@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikesh Garg(Cyber Security Ethustist)</h1>
+<h1 align="center">Hi 👋, I'm Nikesh Garg(Cyber Security Enthusiast)</h1>
 <h3 align="center">A passion for cyber security can come from the sense that you're making people's lives better.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhacker83&label=Profile%20views&color=0e75b6&style=flat" alt="mrhacker83" /> </p>
